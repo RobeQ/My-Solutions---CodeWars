@@ -6,5 +6,7 @@ namespace TestowaAplikacja
 {
     class Class1
     {
+        int a = 20;
+        int b = 100;
     }
 }
