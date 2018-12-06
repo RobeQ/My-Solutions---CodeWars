@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
-C:\Users\Bonjasky\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

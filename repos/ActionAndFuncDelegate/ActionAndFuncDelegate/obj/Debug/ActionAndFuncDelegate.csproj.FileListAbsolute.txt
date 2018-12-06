@@ -1,6 +1,0 @@
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\bin\Debug\ActionAndFuncDelegate.exe.config
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\bin\Debug\ActionAndFuncDelegate.exe
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\bin\Debug\ActionAndFuncDelegate.pdb
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\obj\Debug\ActionAndFuncDelegate.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\obj\Debug\ActionAndFuncDelegate.exe
-C:\Users\Bonjasky\source\repos\ActionAndFuncDelegate\ActionAndFuncDelegate\obj\Debug\ActionAndFuncDelegate.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
-C:\Users\Bonjasky\source\repos\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

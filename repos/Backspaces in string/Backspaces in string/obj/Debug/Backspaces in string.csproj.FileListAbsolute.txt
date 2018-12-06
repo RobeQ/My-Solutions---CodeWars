@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\bin\Debug\Backspaces in string.exe.config
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\bin\Debug\Backspaces in string.exe
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\bin\Debug\Backspaces in string.pdb
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\obj\Debug\Backspaces in string.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\obj\Debug\Backspaces in string.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\obj\Debug\Backspaces in string.exe
-C:\Users\Bonjasky\source\repos\Backspaces in string\Backspaces in string\obj\Debug\Backspaces in string.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.exe.config
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.exe
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.pdb
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.exe
-C:\Users\Bonjasky\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\obj\Debug\+1 Array.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\obj\Debug\+1 Array.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\bin\Debug\+1 Array.exe.config
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\bin\Debug\+1 Array.exe
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\bin\Debug\+1 Array.pdb
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\obj\Debug\+1 Array.exe
-C:\Users\Bonjasky\source\repos\+1 Array\+1 Array\obj\Debug\+1 Array.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\obj\Debug\Connect four.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\obj\Debug\Connect four.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\bin\Debug\Connect four.exe.config
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\bin\Debug\Connect four.exe
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\bin\Debug\Connect four.pdb
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\obj\Debug\Connect four.exe
-C:\Users\Bonjasky\source\repos\Connect four\Connect four\obj\Debug\Connect four.pdb

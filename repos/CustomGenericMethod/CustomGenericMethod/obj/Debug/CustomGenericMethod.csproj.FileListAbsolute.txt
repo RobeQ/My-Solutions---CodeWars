@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.exe.config
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.exe
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.pdb
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.exe
-C:\Users\Bonjasky\source\repos\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.pdb

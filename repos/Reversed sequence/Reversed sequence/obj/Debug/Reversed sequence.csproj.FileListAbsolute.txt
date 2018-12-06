@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\bin\Debug\Reversed sequence.exe.config
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\bin\Debug\Reversed sequence.exe
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\bin\Debug\Reversed sequence.pdb
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\obj\Debug\Reversed sequence.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\obj\Debug\Reversed sequence.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\obj\Debug\Reversed sequence.exe
-C:\Users\Bonjasky\source\repos\Reversed sequence\Reversed sequence\obj\Debug\Reversed sequence.pdb

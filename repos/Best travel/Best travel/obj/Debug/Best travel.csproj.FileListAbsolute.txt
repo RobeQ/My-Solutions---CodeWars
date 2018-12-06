@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\bin\Debug\Best travel.exe.config
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\bin\Debug\Best travel.exe
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\bin\Debug\Best travel.pdb
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\obj\Debug\Best travel.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\obj\Debug\Best travel.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\obj\Debug\Best travel.exe
-C:\Users\Bonjasky\source\repos\Best travel\Best travel\obj\Debug\Best travel.pdb

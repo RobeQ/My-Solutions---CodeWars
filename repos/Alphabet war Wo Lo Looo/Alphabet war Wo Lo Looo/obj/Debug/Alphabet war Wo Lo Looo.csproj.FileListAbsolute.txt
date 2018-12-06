@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\bin\Debug\Alphabet war Wo Lo Looo.exe.config
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\bin\Debug\Alphabet war Wo Lo Looo.exe
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\bin\Debug\Alphabet war Wo Lo Looo.pdb
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\obj\Debug\Alphabet war Wo Lo Looo.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\obj\Debug\Alphabet war Wo Lo Looo.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\obj\Debug\Alphabet war Wo Lo Looo.exe
-C:\Users\Bonjasky\source\repos\Alphabet war Wo Lo Looo\Alphabet war Wo Lo Looo\obj\Debug\Alphabet war Wo Lo Looo.pdb

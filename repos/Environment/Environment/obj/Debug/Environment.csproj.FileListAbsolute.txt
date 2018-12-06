@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Environment\Environment\bin\Debug\Environment.exe.config
-C:\Users\Bonjasky\source\repos\Environment\Environment\bin\Debug\Environment.exe
-C:\Users\Bonjasky\source\repos\Environment\Environment\bin\Debug\Environment.pdb
-C:\Users\Bonjasky\source\repos\Environment\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Environment\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Environment\Environment\obj\Debug\Environment.exe
-C:\Users\Bonjasky\source\repos\Environment\Environment\obj\Debug\Environment.pdb

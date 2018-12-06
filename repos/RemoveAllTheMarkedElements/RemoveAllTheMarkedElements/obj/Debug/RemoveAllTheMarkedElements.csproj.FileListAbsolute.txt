@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\obj\Debug\RemoveAllTheMarkedElements.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\obj\Debug\RemoveAllTheMarkedElements.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\bin\Debug\RemoveAllTheMarkedElements.exe.config
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\bin\Debug\RemoveAllTheMarkedElements.exe
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\bin\Debug\RemoveAllTheMarkedElements.pdb
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\obj\Debug\RemoveAllTheMarkedElements.exe
-C:\Users\Bonjasky\source\repos\RemoveAllTheMarkedElements\RemoveAllTheMarkedElements\obj\Debug\RemoveAllTheMarkedElements.pdb

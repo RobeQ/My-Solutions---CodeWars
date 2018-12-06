@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\obj\Debug\Detect Pangram.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\obj\Debug\Detect Pangram.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\bin\Debug\Detect Pangram.exe.config
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\bin\Debug\Detect Pangram.exe
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\bin\Debug\Detect Pangram.pdb
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\obj\Debug\Detect Pangram.exe
-C:\Users\Bonjasky\source\repos\Detect Pangram\Detect Pangram\obj\Debug\Detect Pangram.pdb

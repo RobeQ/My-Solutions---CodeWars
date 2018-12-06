@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb
-C:\Users\Bonjasky\source\repos\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csprojAssemblyReference.cache

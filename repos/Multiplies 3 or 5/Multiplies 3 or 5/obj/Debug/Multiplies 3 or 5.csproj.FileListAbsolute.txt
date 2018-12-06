@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\bin\Debug\Multiplies 3 or 5.exe.config
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\bin\Debug\Multiplies 3 or 5.exe
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\bin\Debug\Multiplies 3 or 5.pdb
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\obj\Debug\Multiplies 3 or 5.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\obj\Debug\Multiplies 3 or 5.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\obj\Debug\Multiplies 3 or 5.exe
-C:\Users\Bonjasky\source\repos\Multiplies 3 or 5\Multiplies 3 or 5\obj\Debug\Multiplies 3 or 5.pdb

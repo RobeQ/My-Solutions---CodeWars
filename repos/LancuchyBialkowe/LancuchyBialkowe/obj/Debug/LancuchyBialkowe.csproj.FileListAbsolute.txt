@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\obj\Debug\LancuchyBialkowe.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\obj\Debug\LancuchyBialkowe.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\bin\Debug\LancuchyBialkowe.exe.config
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\bin\Debug\LancuchyBialkowe.exe
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\bin\Debug\LancuchyBialkowe.pdb
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\obj\Debug\LancuchyBialkowe.exe
-C:\Users\Bonjasky\source\repos\LancuchyBialkowe\LancuchyBialkowe\obj\Debug\LancuchyBialkowe.pdb

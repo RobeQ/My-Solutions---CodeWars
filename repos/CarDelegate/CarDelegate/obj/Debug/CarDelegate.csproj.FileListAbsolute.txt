@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe.config
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\bin\Debug\CarDelegate.pdb
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\obj\Debug\CarDelegate.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\obj\Debug\CarDelegate.exe
-C:\Users\Bonjasky\source\repos\CarDelegate\CarDelegate\obj\Debug\CarDelegate.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe.config
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.pdb
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.exe
-C:\Users\Bonjasky\source\repos\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\bin\Debug\Alphabet War.exe.config
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\bin\Debug\Alphabet War.exe
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\bin\Debug\Alphabet War.pdb
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\obj\Debug\Alphabet War.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\obj\Debug\Alphabet War.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\obj\Debug\Alphabet War.exe
-C:\Users\Bonjasky\source\repos\Alphabet War\Alphabet War\obj\Debug\Alphabet War.pdb

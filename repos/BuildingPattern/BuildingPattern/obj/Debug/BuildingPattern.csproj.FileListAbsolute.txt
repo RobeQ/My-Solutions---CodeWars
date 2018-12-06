@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\bin\Debug\BuildingPattern.exe.config
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\bin\Debug\BuildingPattern.exe
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\bin\Debug\BuildingPattern.pdb
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\obj\Debug\BuildingPattern.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\obj\Debug\BuildingPattern.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\obj\Debug\BuildingPattern.exe
-C:\Users\Bonjasky\source\repos\BuildingPattern\BuildingPattern\obj\Debug\BuildingPattern.pdb

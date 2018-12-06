@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\bin\Debug\UnflattenAList(easy).exe.config
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\bin\Debug\UnflattenAList(easy).exe
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\bin\Debug\UnflattenAList(easy).pdb
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\obj\Debug\UnflattenAList(easy).csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\obj\Debug\UnflattenAList(easy).csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\obj\Debug\UnflattenAList(easy).exe
-C:\Users\Bonjasky\source\repos\UnflattenAList(easy)\UnflattenAList(easy)\obj\Debug\UnflattenAList(easy).pdb

@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\obj\Debug\Make the deadfish swim.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\obj\Debug\Make the deadfish swim.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\bin\Debug\Make the deadfish swim.exe.config
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\bin\Debug\Make the deadfish swim.exe
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\bin\Debug\Make the deadfish swim.pdb
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\obj\Debug\Make the deadfish swim.exe
-C:\Users\Bonjasky\source\repos\Make the deadfish swim\Make the deadfish swim\obj\Debug\Make the deadfish swim.pdb

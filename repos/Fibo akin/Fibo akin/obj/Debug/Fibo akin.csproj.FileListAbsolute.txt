@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\bin\Debug\Fibo akin.exe.config
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\bin\Debug\Fibo akin.exe
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\bin\Debug\Fibo akin.pdb
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\obj\Debug\Fibo akin.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\obj\Debug\Fibo akin.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\obj\Debug\Fibo akin.exe
-C:\Users\Bonjasky\source\repos\Fibo akin\Fibo akin\obj\Debug\Fibo akin.pdb

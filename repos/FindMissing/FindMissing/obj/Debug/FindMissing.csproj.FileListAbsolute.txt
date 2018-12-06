@@ -1,7 +1,0 @@
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\bin\Debug\FindMissing.exe.config
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\bin\Debug\FindMissing.exe
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\bin\Debug\FindMissing.pdb
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\obj\Debug\FindMissing.csprojAssemblyReference.cache
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\obj\Debug\FindMissing.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\obj\Debug\FindMissing.exe
-C:\Users\Bonjasky\source\repos\FindMissing\FindMissing\obj\Debug\FindMissing.pdb

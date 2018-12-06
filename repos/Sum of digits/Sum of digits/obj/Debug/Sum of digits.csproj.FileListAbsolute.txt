@@ -1,6 +1,0 @@
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe.config
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\bin\Debug\Sum of digits.pdb
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\obj\Debug\Sum of digits.exe
-C:\Users\Bonjasky\source\repos\Sum of digits\Sum of digits\obj\Debug\Sum of digits.pdb

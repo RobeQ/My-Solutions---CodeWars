@@ -1,6 +1,0 @@
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
-C:\Users\Bonjasky\source\repos\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb
