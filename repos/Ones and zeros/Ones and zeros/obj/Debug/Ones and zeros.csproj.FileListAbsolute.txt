@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\bin\Debug\Ones and zeros.exe.config
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\bin\Debug\Ones and zeros.exe
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\bin\Debug\Ones and zeros.pdb
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\obj\Debug\Ones and zeros.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\obj\Debug\Ones and zeros.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\obj\Debug\Ones and zeros.exe
+C:\Users\Bonjasky\source\repos\Ones and zeros\Ones and zeros\obj\Debug\Ones and zeros.pdb

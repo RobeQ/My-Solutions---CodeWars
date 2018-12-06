@@ -1,0 +1,11 @@
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.AssemblyInfoInputs.cache
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.AssemblyInfo.cs
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\bin\Debug\netcoreapp2.1\FindTheParityOutliner.deps.json
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\bin\Debug\netcoreapp2.1\FindTheParityOutliner.runtimeconfig.json
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\bin\Debug\netcoreapp2.1\FindTheParityOutliner.runtimeconfig.dev.json
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\bin\Debug\netcoreapp2.1\FindTheParityOutliner.dll
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\bin\Debug\netcoreapp2.1\FindTheParityOutliner.pdb
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.dll
+C:\Users\Bonjasky\source\repos\FindTheParityOutliner\FindTheParityOutliner\obj\Debug\netcoreapp2.1\FindTheParityOutliner.pdb

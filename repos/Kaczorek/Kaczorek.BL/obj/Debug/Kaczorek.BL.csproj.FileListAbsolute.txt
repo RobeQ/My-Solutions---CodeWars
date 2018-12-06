@@ -1,0 +1,9 @@
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\bin\Debug\Kaczorek.BL.dll
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\bin\Debug\Kaczorek.BL.pdb
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\obj\Debug\Kaczorek.BL.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\obj\Debug\Kaczorek.BL.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\obj\Debug\Kaczorek.BL.dll
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\obj\Debug\Kaczorek.BL.pdb
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\bin\Debug\Common.dll
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\bin\Debug\Common.pdb
+C:\Users\Bonjasky\source\repos\Kaczorek\Kaczorek.BL\obj\Debug\Kaczorek.BL.csproj.CopyComplete

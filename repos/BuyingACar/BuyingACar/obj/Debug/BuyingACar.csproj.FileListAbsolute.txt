@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\bin\Debug\BuyingACar.exe.config
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\bin\Debug\BuyingACar.exe
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\bin\Debug\BuyingACar.pdb
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\obj\Debug\BuyingACar.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\obj\Debug\BuyingACar.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\obj\Debug\BuyingACar.exe
+C:\Users\Bonjasky\source\repos\BuyingACar\BuyingACar\obj\Debug\BuyingACar.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\bin\Debug\netcoreapp2.1\Maskify - CodeWars.deps.json
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\bin\Debug\netcoreapp2.1\Maskify - CodeWars.runtimeconfig.json
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\bin\Debug\netcoreapp2.1\Maskify - CodeWars.runtimeconfig.dev.json
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\bin\Debug\netcoreapp2.1\Maskify - CodeWars.dll
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\bin\Debug\netcoreapp2.1\Maskify - CodeWars.pdb
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.AssemblyInfoInputs.cache
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.AssemblyInfo.cs
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.dll
+C:\Users\Bonjasky\source\repos\Maskify - CodeWars\Maskify - CodeWars\obj\Debug\netcoreapp2.1\Maskify - CodeWars.pdb

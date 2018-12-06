@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\obj\Debug\Positions Average.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\bin\Debug\Positions Average.exe.config
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\bin\Debug\Positions Average.exe
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\bin\Debug\Positions Average.pdb
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\obj\Debug\Positions Average.exe
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\obj\Debug\Positions Average.pdb
+C:\Users\Bonjasky\source\repos\Positions Average\Positions Average\obj\Debug\Positions Average.csprojAssemblyReference.cache

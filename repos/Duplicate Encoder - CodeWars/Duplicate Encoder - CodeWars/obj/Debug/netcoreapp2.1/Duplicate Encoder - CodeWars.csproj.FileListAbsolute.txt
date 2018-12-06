@@ -1,0 +1,11 @@
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\bin\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.deps.json
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\bin\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.runtimeconfig.json
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\bin\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.runtimeconfig.dev.json
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\bin\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.dll
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\bin\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.pdb
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.AssemblyInfoInputs.cache
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.AssemblyInfo.cs
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.dll
+C:\Users\Bonjasky\source\repos\Duplicate Encoder - CodeWars\Duplicate Encoder - CodeWars\obj\Debug\netcoreapp2.1\Duplicate Encoder - CodeWars.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\bin\Debug\IssuesWithNonGenericCollection.exe.config
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\bin\Debug\IssuesWithNonGenericCollection.exe
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\bin\Debug\IssuesWithNonGenericCollection.pdb
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\obj\Debug\IssuesWithNonGenericCollection.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\obj\Debug\IssuesWithNonGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\obj\Debug\IssuesWithNonGenericCollection.exe
+C:\Users\Bonjasky\source\repos\IssuesWithNonGenericCollection\IssuesWithNonGenericCollection\obj\Debug\IssuesWithNonGenericCollection.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\bin\Debug\netcoreapp2.1\FindTheOddInt.deps.json
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\bin\Debug\netcoreapp2.1\FindTheOddInt.runtimeconfig.json
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\bin\Debug\netcoreapp2.1\FindTheOddInt.runtimeconfig.dev.json
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\bin\Debug\netcoreapp2.1\FindTheOddInt.dll
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\bin\Debug\netcoreapp2.1\FindTheOddInt.pdb
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.AssemblyInfoInputs.cache
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.AssemblyInfo.cs
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.dll
+C:\Users\Bonjasky\source\repos\FindTheOddInt\FindTheOddInt\obj\Debug\netcoreapp2.1\FindTheOddInt.pdb

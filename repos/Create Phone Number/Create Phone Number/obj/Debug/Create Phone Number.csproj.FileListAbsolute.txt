@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe.config
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.pdb
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.exe
+C:\Users\Bonjasky\source\repos\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.pdb

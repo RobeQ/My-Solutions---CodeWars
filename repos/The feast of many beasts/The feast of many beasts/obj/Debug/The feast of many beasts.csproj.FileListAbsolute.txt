@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\bin\Debug\The feast of many beasts.exe.config
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\bin\Debug\The feast of many beasts.exe
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\bin\Debug\The feast of many beasts.pdb
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\obj\Debug\The feast of many beasts.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\obj\Debug\The feast of many beasts.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\obj\Debug\The feast of many beasts.exe
+C:\Users\Bonjasky\source\repos\The feast of many beasts\The feast of many beasts\obj\Debug\The feast of many beasts.pdb

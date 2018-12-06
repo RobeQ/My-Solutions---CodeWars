@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.exe.config
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.exe
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.pdb
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.exe
+C:\Users\Bonjasky\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.pdb

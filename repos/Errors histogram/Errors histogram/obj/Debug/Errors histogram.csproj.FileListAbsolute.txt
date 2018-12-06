@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\bin\Debug\Errors histogram.exe.config
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\bin\Debug\Errors histogram.exe
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\bin\Debug\Errors histogram.pdb
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\obj\Debug\Errors histogram.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\obj\Debug\Errors histogram.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\obj\Debug\Errors histogram.exe
+C:\Users\Bonjasky\source\repos\Errors histogram\Errors histogram\obj\Debug\Errors histogram.pdb

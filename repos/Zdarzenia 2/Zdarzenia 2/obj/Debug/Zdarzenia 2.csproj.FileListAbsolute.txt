@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\bin\Debug\Zdarzenia 2.exe.config
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\bin\Debug\Zdarzenia 2.exe
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\bin\Debug\Zdarzenia 2.pdb
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\obj\Debug\Zdarzenia 2.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\obj\Debug\Zdarzenia 2.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\obj\Debug\Zdarzenia 2.exe
+C:\Users\Bonjasky\source\repos\Zdarzenia 2\Zdarzenia 2\obj\Debug\Zdarzenia 2.pdb

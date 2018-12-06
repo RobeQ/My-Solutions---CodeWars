@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\bin\Debug\Mean square error.exe.config
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\bin\Debug\Mean square error.exe
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\bin\Debug\Mean square error.pdb
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\obj\Debug\Mean square error.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\obj\Debug\Mean square error.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\obj\Debug\Mean square error.exe
+C:\Users\Bonjasky\source\repos\Mean square error\Mean square error\obj\Debug\Mean square error.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\bin\Debug\Vowel count.exe.config
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\bin\Debug\Vowel count.exe
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\bin\Debug\Vowel count.pdb
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\obj\Debug\Vowel count.csprojAssemblyReference.cache
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\obj\Debug\Vowel count.csproj.CoreCompileInputs.cache
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\obj\Debug\Vowel count.exe
+C:\Users\Bonjasky\source\repos\Vowel count\Vowel count\obj\Debug\Vowel count.pdb
